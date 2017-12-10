@@ -1,4 +1,4 @@
-Python Log Analysis Project
+Udacity Python Log Analysis Project
 
 Python Log Analysis
 
